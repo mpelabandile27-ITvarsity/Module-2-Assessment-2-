@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.itvarsity.pine city mall"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+
+  <name>Pine city Mall</name>
+
+  <description>
+      This app is about the pine city Mall.
+  </description>
+
+  <author href="https://itvarsity.co.za" email="info@itvarsity.co.za">
+      IT varsity
+  </author>
+
+</widget>
